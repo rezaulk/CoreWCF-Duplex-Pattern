@@ -17,7 +17,7 @@ namespace NetCoreClient
         {
             Console.WriteLine("Client Started.");
 
-            EndpointAddress address = new EndpointAddress($"net.tcp://192.168.0.104:{NETTCP_PORT}/EchoService");
+            EndpointAddress address = new EndpointAddress($"net.tcp://localhost:{NETTCP_PORT}/EchoService");
             Binding binding = new NetTcpBinding(SecurityMode.None);
             IPVEventCallback callback = new CallBackHandler();
             InstanceContext context = new InstanceContext(callback);

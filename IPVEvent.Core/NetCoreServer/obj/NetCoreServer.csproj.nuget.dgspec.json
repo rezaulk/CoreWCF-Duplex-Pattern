@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {}
+    "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {}
   },
   "projects": {
-    "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {
+    "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj",
+        "projectUniqueName": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj",
         "projectName": "NetCoreServer",
-        "projectPath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj",
+        "projectPath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\obj\\",
+        "outputPath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

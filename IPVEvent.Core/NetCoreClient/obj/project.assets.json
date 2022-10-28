@@ -5907,11 +5907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
+      "projectUniqueName": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
       "projectName": "NetCoreClient",
-      "projectPath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
+      "projectPath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreClient\\obj\\",
+      "outputPath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5931,8 +5931,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {
-              "projectPath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj"
+            "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj": {
+              "projectPath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreServer\\NetCoreServer.csproj"
             }
           }
         }

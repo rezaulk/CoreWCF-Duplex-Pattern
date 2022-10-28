@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/c7W66hL1cMG8QBXM5MaMxeqij2gcXt/JLyZqbLwGKkvgSUaf+gneGfLIBJy6PP0ys/rH9vcHnAqe/tlUaNQfw==",
+  "dgSpecHash": "T2ox8B/qOhurAW6WqZ88tIUzLbQP2QxhAh3OXpBNUahgcBD4hxMMrIpIPDXNhxJZYe06iEK65J5NjvpbVDP0UA==",
   "success": true,
-  "projectFilePath": "D:\\SJBD\\RnD\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
+  "projectFilePath": "D:\\Git\\GitHub\\CoreWCF-Duplex-Pattern\\IPVEvent.Core\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\corewcf.http\\1.0.0\\corewcf.http.1.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\corewcf.nettcp\\1.0.0\\corewcf.nettcp.1.0.0.nupkg.sha512",
