@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SJBD\\RnD\\IPVEvent5.0\\PVEvent3.1\\PVEvent3.1.csproj": {}
+  },
+  "projects": {
+    "D:\\SJBD\\RnD\\IPVEvent5.0\\IPEvent.Net4.8\\IPEvent.Net4.8.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\SJBD\\RnD\\IPVEvent5.0\\IPEvent.Net4.8\\IPEvent.Net4.8.csproj",
+        "projectName": "IPEvent.Net4.8",
+        "projectPath": "D:\\SJBD\\RnD\\IPVEvent5.0\\IPEvent.Net4.8\\IPEvent.Net4.8.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\SJBD\\RnD\\IPVEvent5.0\\PVEvent3.1\\PVEvent3.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SJBD\\RnD\\IPVEvent5.0\\PVEvent3.1\\PVEvent3.1.csproj",
+        "projectName": "PVEvent3.1",
+        "projectPath": "D:\\SJBD\\RnD\\IPVEvent5.0\\PVEvent3.1\\PVEvent3.1.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\SJBD\\RnD\\IPVEvent5.0\\PVEvent3.1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\SJBD\\RnD\\IPVEvent5.0\\IPEvent.Net4.8\\IPEvent.Net4.8.csproj": {
+                "projectPath": "D:\\SJBD\\RnD\\IPVEvent5.0\\IPEvent.Net4.8\\IPEvent.Net4.8.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
