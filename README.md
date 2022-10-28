@@ -1,0 +1,1 @@
+# CoreWCF-Duplex-Pattern
